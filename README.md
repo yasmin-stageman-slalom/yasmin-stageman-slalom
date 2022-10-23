@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1> Oh hey there! 👋 </h1>
 
-<!--
-**yasmin-stageman-slalom/yasmin-stageman-slalom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> I'm Yasmin, a front-end developer who has an obsession with pixel perfect code. </h2>
 
-Here are some ideas to get you started:
+<p> I code in:</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+``` HTML ```
+``` CSS ``` 
+``` JavaScript ``` 
+
+<p> I like... </p>
+
+```diff
++ Coding
++ User experience design
++ Creating digital art
++ Dogs, obvs.
+```
